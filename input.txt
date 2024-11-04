@@ -1,0 +1,7 @@
+Applied Moment (kNm): 200
+Applied Shear Force (kN): 150
+Effective Span (m): 8
+Width of beam(cm): 25
+Height of beam(cm): 30
+Yield Strength of Steel (MPa): 250
+Allowable Deflection (mm): 33.33

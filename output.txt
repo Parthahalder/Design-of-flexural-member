@@ -1,0 +1,29 @@
+
+    Flexural Member Design Report (Simply Supported Beam):
+    -----------------------------------------------------
+    Input Data:
+    - Moment (M): 200.00 kNm
+    - Shear Force (V): 150.00 kN
+    - Effective Span (L): 8.00 m
+    - Section Modulus (Zp): 5625.00 cm^3
+    - Shear Area (Av): 900.00 cm^2
+    - Moment of Inertia (I): 56250.00 cm^4
+    - Yield Strength of Steel (fy): 250.00 MPa
+
+    Design Check Results:
+    ---------------------
+    1. Moment Capacity (phi_Md): 1278.41 kNm
+       - Applied Moment: 200.00 kNm
+       - Moment Check: Pass
+
+    2. Shear Capacity (phi_Vd): 12272.73 kN
+       - Applied Shear Force: 150.00 kN
+       - Shear Check: Pass
+
+    3. Deflection Check:
+       - Deflection (delta): 16.93 mm
+       - Allowable Deflection: 33.33 mm
+       - Deflection Check: Pass
+
+    Conclusion: The flexural member design is safe.
+    
